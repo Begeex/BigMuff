@@ -2,6 +2,8 @@
 
 This Is a clone of Electro-Hrmonix Big Muff guitar pedal.
 
+![Pedal](Pictures/IMG_20260121_181029.jpg)
+
 ### Circuit
 
 The pedal is based on a circuit diagram by ElectroSmash. The schematic and parts list are available from the link below.
@@ -23,8 +25,4 @@ The KiCad and Gerber files are available in this repository.
 ### Assembled PCB
 
 ![Assembled PCB](Pictures/IMG_20260121_180029.jpg)
-
-### Ready Pedal
-
-![Pedal](Pictures/IMG_20260121_180029.jpg)
 
