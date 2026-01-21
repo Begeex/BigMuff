@@ -11,7 +11,7 @@ https://www.electrosmash.com/big-muff-pi-analysis
 
 ### PCB
 
-The PCB was designed using KiCad software and can be seen below as a 3D render. It's designed to fit in a 1590B enclosure. Through hole components were selected for easier assembly at home.
+The PCB was designed using KiCad software and can be seen below as a 3D render. It's designed to fit in a 1590B enclosure and is 55 mm x 71 mm in size. Through hole components were selected for easier assembly at home.
 
 The KiCad and Gerber files are available in this repository.
 
