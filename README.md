@@ -1,6 +1,6 @@
 # BigMuff
 
-This Is a clone of Electro-Hrmonix Big Muff guitar pedal.
+This project is a clone of the Electro-Hrmonix Big Muff guitar pedal. This version uses 2N5089 transistors and 1N4148 diodes.
 
 ![Pedal](Pictures/IMG_20260121_181029.jpg)
 
